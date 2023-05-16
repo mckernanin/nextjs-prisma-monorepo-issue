@@ -1,0 +1,4 @@
+packages:
+  - "nextjs-app"
+  - "package-1-with-prisma"
+  - "package-2-with-prisma"
